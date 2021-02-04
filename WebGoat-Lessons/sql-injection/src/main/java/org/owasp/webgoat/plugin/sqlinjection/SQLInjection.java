@@ -249,7 +249,7 @@ public class SQLInjection extends GoatHillsFinancial
      */
     public String getTitle()
     {
-        return "LAB: SQL Injection";
+        return "LAB: SQL Injection 2"; //fake code changes PR for LGTM
     }
 
     @Override
